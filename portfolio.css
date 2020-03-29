@@ -1,5 +1,5 @@
 .navbar-lewagon {
-  justify-content: space-between;
+  justify-content: space-between !important;
   background: white;
 }
 
@@ -9,4 +9,27 @@
 
 .navbar-lewagon .navbar-brand img {
   width: 40px;
+}
+
+.about-info {
+  display:flex;
+  margin: auto 150px;
+  justify-content: space-between;
+}
+
+.about-info img {
+  height:510px;
+}
+
+.about-details {
+  padding: 40px;
+}
+
+.about-details h1 {
+  text-align: center;
+  display: block;
+}
+
+.about-details p {
+  display: block;
 }
