@@ -82,14 +82,9 @@
   color:black;
 }
 
-.footer .fa-heart {
-  color: #D23333;
+.clicked-card {
+  transform:scale(1.1);
+  border-color: black;
+  box-shadow: 0 0 10px black;
 }
-
-
-
-
-
-
-
 
